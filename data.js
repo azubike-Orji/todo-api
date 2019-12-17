@@ -32,6 +32,13 @@ const data = [{
         order: 5,
         completed: false,
         createdOn: new Date()
+    }, 
+    {
+        id: 6,
+        title: 'meet with granny',
+        order: 6,
+        completed: false,
+        createdOn: new Date()
     }
 ]
 
